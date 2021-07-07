@@ -9,4 +9,4 @@
 
 <!-- - 📫 How to reach me: soon. -->
 
-**Thanks** for visiting my profile! :)
+**Thanks** for visiting my profile!
