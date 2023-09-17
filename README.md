@@ -23,7 +23,6 @@ Open Source 💜
 
 <br>
 <br>
-<br>
 
 ### Languages and Tools: 
 
