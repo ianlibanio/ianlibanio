@@ -14,11 +14,12 @@
 <img align="right" height="270px" alt="Image" src="https://github.com/ianlibanio.png" />
 
 ### I am a Fullstack Developer
-- 💜 Open Source
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m improving my Web Development skills
 - 👯 I’m willing to collaborate with other Developers
 - 💬 Ask me about anything, I'm happy to help
+
+Open Source 💜
 
 <br>
 <br>
