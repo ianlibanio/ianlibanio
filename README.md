@@ -13,9 +13,11 @@
 
 <img align="right" height="270px" alt="Image" src="https://github.com/ianlibanio.png" />
 
-### I am a Fullstack Developer
+### I am a Fullstack Developer, 
+- 📚 I'm studying Computer Engineering at the Federal Institute of Minas Gerais
+- 📓 I'm doing the React.JS and Node.JS courses from Ignite program provided by Rocketseat
 - 🔭 I’m currently working on my Portfolio
-- 🌱 I’m improving my Web Development skills
+<!-- - 🌱 I’m improving my Web Development skills -->
 - 👯 I’m willing to collaborate with other Developers
 - 💬 Ask me about anything, I'm happy to help
 
