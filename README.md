@@ -5,8 +5,8 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/ianlibanio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
-<a href="mailto:contact@ianlibanio.dev"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://ianlibanio.dev/"><img alt="Portfolio" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fianlibanio.dev%2F"></a>
+<a href="mailto:contact@ianlibanio.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://ianlibanio.com/"><img alt="Portfolio" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fianlibanio.com%2F"></a>
 </p>
 
 <br>
@@ -15,10 +15,9 @@
 
 ### I am a Fullstack Developer, 
 - 📚 I'm studying Computer Engineering at the Federal Institute of Minas Gerais
-- 🔭 I’m currently working on my Java Portfolio
+- 🔭 I’m currently working mainly on TypeScript Web Fullstack projects
 - 👯 I’m willing to collaborate with other Developers
 - 💬 Ask me about anything, I'm happy to help
-<!-- - 🌱 I’m improving my Web Development skills -->
 
 Open Source 💜
 
@@ -36,6 +35,7 @@ Open Source 💜
 <img align="left" alt="NextJS" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="TailwindCSS" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Jest" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="left" alt="Vitest" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 <img align="left" alt="Java" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Gradle" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gradle/gradle-original.svg" />
 <img align="left" alt="MySQL" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
